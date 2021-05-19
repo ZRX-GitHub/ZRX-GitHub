@@ -1,1 +1,1 @@
-# aigoushop
+# 本仓库仅用于url的跳转
